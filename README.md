@@ -7,6 +7,7 @@ Requisitos
 1.Ter o GCC instalado
 
   link para instalação no Linux : https://www.delftstack.com/pt/howto/linux/how-to-install-gcc-compiler-on-ubuntu/
+  link para instalação no Windows : https://wldomiciano.com/instalando-gcc-no-windows-com-mingw/
 
 Execução
 --
