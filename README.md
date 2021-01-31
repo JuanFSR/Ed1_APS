@@ -4,9 +4,8 @@ Este trabalho foi desenvolvido com intuito de colocar em prática os conheciment
 
 Requisitos
 --
-
-Ter o GCC instalado
-link para instalação no Linux : https://www.delftstack.com/pt/howto/linux/how-to-install-gcc-compiler-on-ubuntu/
+1.Ter o GCC instalado
+  link para instalação no Linux : https://www.delftstack.com/pt/howto/linux/how-to-install-gcc-compiler-on-ubuntu/
 
 Execução
 --
